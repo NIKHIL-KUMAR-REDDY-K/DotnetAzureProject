@@ -1,0 +1,5 @@
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\Azure\DotnetAzure\DotnetAzure\bin\Debug\netcoreapp3.1\publish\DotnetAzure.exe
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\Azure\DotnetAzure\DotnetAzure\bin\Debug\netcoreapp3.1\publish\DotnetAzure.dll
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\Azure\DotnetAzure\DotnetAzure\bin\Debug\netcoreapp3.1\publish\DotnetAzure.deps.json
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\Azure\DotnetAzure\DotnetAzure\bin\Debug\netcoreapp3.1\publish\DotnetAzure.runtimeconfig.json
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\Azure\DotnetAzure\DotnetAzure\bin\Debug\netcoreapp3.1\publish\DotnetAzure.pdb
